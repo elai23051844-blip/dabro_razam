@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g transform="translate(60 60)" fill="none" stroke="#E6BF63" stroke-width="1" stroke-linejoin="round" opacity=".55">
+    <polygon points="0,-30 5.81,-15.97 19.28,-22.98 14.72,-8.5 29.54,-5.21 16.74,2.95 25.98,15 10.93,13.02 10.26,28.19 0,17 -10.26,28.19 -10.93,13.02 -25.98,15 -16.74,2.95 -29.54,-5.21 -14.72,-8.5 -19.28,-22.98 -5.81,-15.97"/>
+    <circle r="38" opacity=".55"/>
+  </g>
+  <g fill="#E6BF63" opacity=".6">
+    <path d="M0 -4 L4 0 L0 4 L-4 0 Z" transform="translate(0 0)"/>
+    <path d="M0 -4 L4 0 L0 4 L-4 0 Z" transform="translate(120 0)"/>
+    <path d="M0 -4 L4 0 L0 4 L-4 0 Z" transform="translate(0 120)"/>
+    <path d="M0 -4 L4 0 L0 4 L-4 0 Z" transform="translate(120 120)"/>
+  </g>
+</svg>

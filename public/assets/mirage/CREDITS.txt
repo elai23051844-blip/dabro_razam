@@ -1,0 +1,31 @@
+Фоновые изображения первого экрана («мираж»)
+=============================================
+
+Источник: Wikimedia Commons. Фотографии обработаны: тонированы в золото, затемнены и мягко размыты (дымка).
+Обработанные версии распространяются на тех же условиях, что и оригиналы:
+для CC BY-SA — на тех же условиях (CC BY-SA), для CC BY — с указанием автора.
+
+1) bab.webp, bab-haze.webp
+   «Israel-05202 - Shrine at Night» — Dennis G. Jarvis — CC BY-SA 2.0
+   https://commons.wikimedia.org/wiki/File:Israel-05202_-_Shrine_at_Night_(34082615021).jpg
+   https://creativecommons.org/licenses/by-sa/2.0/
+
+2) bab2.webp, bab2-haze.webp
+   «Haifa Schrein des Báb bei Nacht 1» — Zairon — CC BY-SA 4.0
+   https://commons.wikimedia.org/wiki/File:Haifa_Schrein_des_B%C3%A1b_bei_Nacht_1.JPG
+   https://creativecommons.org/licenses/by-sa/4.0/
+
+3) lotus.webp, lotus-haze.webp
+   «Lotus temple in Delhi, India» — Arian Zwegers — CC BY 2.0
+   https://commons.wikimedia.org/wiki/File:Lotus_temple_in_Delhi,_India.jpg
+   https://creativecommons.org/licenses/by/2.0/
+
+4) bahaullah.webp, bahaullah-haze.webp
+   «Shrine of Bahá'u'lláh at Acre» — Avi1111 dr. avishai teicher — CC BY-SA 4.0
+   https://commons.wikimedia.org/wiki/File:Shrine_of_Bah%C3%A1%27u%27ll%C3%A1h_at_Acre.jpg
+   https://creativecommons.org/licenses/by-sa/4.0/
+
+5) wilmette.webp, wilmette-haze.webp
+   «Baha'i Temple» — MichaelDPhotos — CC BY-SA 4.0
+   https://commons.wikimedia.org/wiki/File:Baha%27i_Temple.jpg
+   https://creativecommons.org/licenses/by-sa/4.0/
